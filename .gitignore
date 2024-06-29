@@ -37,3 +37,13 @@
 # Build directories
 cmake-build-*
 build
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.log
+*.lastbuildstate
+*.tlog
+unsuccessfulbuild
+*.pdb
+link.command.
