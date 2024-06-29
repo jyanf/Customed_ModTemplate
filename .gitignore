@@ -48,3 +48,4 @@ unsuccessfulbuild
 *.pdb
 link.command.
 *.dll.recipe
+*.vcxproj.FileListAbsolute.txt
