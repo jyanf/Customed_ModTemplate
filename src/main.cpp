@@ -2,7 +2,7 @@
 // Created by PinkySmile on 31/10/2020
 //
 
-#include "../SokuLib/src/SokuLib.hpp"
+#include "./SokuLib_custom/src/SokuLib.hpp"
 #include <Shlwapi.h>
 #pragma comment(lib, "Shlwapi.lib")
 
