@@ -5,7 +5,7 @@
 #include <d3d9.h>
 //#include <d3dx9tex.h>
 #include "../directx/d3dx9tex.h"
-#pragma comment(lib, "../lib/d3dx9.lib")
+#pragma comment(lib, "lib/d3dx9.lib")
 #include <cmath>
 #include <cstdio>
 #include <cstring>
