@@ -2,7 +2,9 @@
 // Created by PinkySmile on 31/10/2020
 //
 
-#include <SokuLib.hpp>
+#include "../SokuLib/src/SokuLib.hpp"
+#include <Shlwapi.h>
+#pragma comment(lib, "Shlwapi.lib")
 
 static bool init = false;
 static int (SokuLib::BattleManager::*ogBattleMgrOnProcess)();
